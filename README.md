@@ -4,10 +4,10 @@
 * Used Bike sharing patterns Dataset from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset) 
 
 ## Requirements
-* To start working on the project run the following command after cloning the repository.
 * If you don't have python installed on your machine download it from [here](https://www.python.org/ftp/python/3.8.2/python-3.8.2.exe)
 * Then install pip on your machine by downloading this [get-pip.py](https://bootstrap.pypa.io/get-pip.py) and from the downloads directory 
 run ```python get-pip.py```
+* To start working on the project run the following command after cloning the repository.
 ```
 pip install -r requirements.txt
 ```
