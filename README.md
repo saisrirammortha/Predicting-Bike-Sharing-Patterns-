@@ -11,6 +11,10 @@ run ```python get-pip.py```
 ```
 pip install -r requirements.txt
 ```
+* I suppose Anaconda is already installed in the machine. Then run the following command
+```
+conda install pytorch torchvision -c pytorch
+```
 * This would install all the requirements.
 ## Output
 * This dataset contains the hourly and daily count of rental bikes between years 2011 and 2012 in Capital bikeshare system with the corresponding weather and seasonal information.
